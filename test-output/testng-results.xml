@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4757" started-at="2023-04-26T09:33:09 BST" finished-at="2023-04-26T09:33:13 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4757" started-at="2023-04-26T09:33:09 BST" finished-at="2023-04-26T09:33:13 BST">
+      <class name="tests.AddCatagoryTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:tests.AddCatagoryTest@c46bcd4]" name="setUp" is-config="true" duration-ms="3063" started-at="2023-04-26T09:33:09 BST" finished-at="2023-04-26T09:33:12 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="userShouldBeAbleToAddNewCategoryItem()[pri:1, instance:tests.AddCatagoryTest@c46bcd4]" name="userShouldBeAbleToAddNewCategoryItem" duration-ms="778" started-at="2023-04-26T09:33:12 BST" finished-at="2023-04-26T09:33:12 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToAddNewCategoryItem -->
+        <test-method status="PASS" signature="userShouldBeAbleToSeeNameOfTheMonths()[pri:2, instance:tests.AddCatagoryTest@c46bcd4]" name="userShouldBeAbleToSeeNameOfTheMonths" duration-ms="380" started-at="2023-04-26T09:33:12 BST" finished-at="2023-04-26T09:33:13 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userShouldBeAbleToSeeNameOfTheMonths -->
+        <test-method status="PASS" signature="duplicateCatagoryInsertion()[pri:3, instance:tests.AddCatagoryTest@c46bcd4]" name="duplicateCatagoryInsertion" duration-ms="378" started-at="2023-04-26T09:33:13 BST" finished-at="2023-04-26T09:33:13 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateCatagoryInsertion -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.AddCatagoryTest@c46bcd4]" name="tearDown" is-config="true" duration-ms="118" started-at="2023-04-26T09:33:13 BST" finished-at="2023-04-26T09:33:13 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.AddCatagoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
